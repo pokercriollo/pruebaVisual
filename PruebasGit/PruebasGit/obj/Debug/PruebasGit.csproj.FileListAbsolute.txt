@@ -1,0 +1,8 @@
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\bin\Debug\PruebasGit.exe.config
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\bin\Debug\PruebasGit.exe
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\bin\Debug\PruebasGit.pdb
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\obj\Debug\PruebasGit.csprojResolveAssemblyReference.cache
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\obj\Debug\PruebasGit.Properties.Resources.resources
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\obj\Debug\PruebasGit.csproj.GenerateResource.Cache
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\obj\Debug\PruebasGit.exe
+C:\Users\Lapa\Documents\Visual Studio 2013\Projects\pruebaVisual\PruebasGit\PruebasGit\obj\Debug\PruebasGit.pdb
